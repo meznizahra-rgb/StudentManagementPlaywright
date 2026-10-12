@@ -10,7 +10,7 @@ test('Créer un étudiant avec succès', async ({ page }) => {
 
   // 2. Créer un étudiant
   await studentPage.createStudent(
-    'Zahra',
+    'Rhouma',
     'Test',
     email,
     '6A'
