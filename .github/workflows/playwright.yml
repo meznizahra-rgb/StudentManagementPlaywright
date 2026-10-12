@@ -23,7 +23,7 @@ jobs:
       - name: Checkout Student Management System
         uses: actions/checkout@v4
         with:
-          repository: walidhnaien/student-management-system
+          repository: meznizahra-rgb/studentManagementApplication
           ref: master
           path: student-app
 
